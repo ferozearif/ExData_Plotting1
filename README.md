@@ -7,13 +7,17 @@ This submission comprises of plot1.R, plot1.png, plot2.R, plot2.png, plot3.R, pl
 Project Description
 -------------------
 Create the following plots:
+
 1. Plot 1 - Global Active Power Histogram - Global Active Power (kilowatts) Vs Frequency
+
 2. Plot 2 - Global Active Power (Y - Axis - 0, 2, 4, 6) Vs Time (X - Axis - Thu, Fri, Sat)
+
 3. Plot 3 - Energy submetering (Y-Axis - 0, 10, 20, 30) Vs Time (X - Axis - Thu, Fri, Sat) Includes Sub_mtering_1 (black), Sub_metering_2 (red) and Sub_metering_3 (blue)
+
 4. Plot 4 - Comprises of four plots - Plot 2 & 3 and Voltage Vs datetime, Global reactive power vs datetime
 
-Instructions
-------------
+Tasks completed
+---------------
 1. Fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
 
 2. Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.
